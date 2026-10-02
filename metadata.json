@@ -1,0 +1,6 @@
+{
+  "name": "Toe Tap Counter",
+  "description": "Computer Vision toe tap counter using YOLO pose detection and live camera feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
